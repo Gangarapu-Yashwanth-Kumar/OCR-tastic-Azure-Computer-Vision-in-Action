@@ -82,4 +82,4 @@ Upon exploring this repository, you will be able to:
 Contributions are welcome! If you have suggestions for improvements, new features, or bug fixes, please feel free to open an issue or submit a pull request.
 
 ## Thank You 🙏
-Thank you for checking out OCR-tastic! We appreciate your interest and hope this project is helpful in your Azure cloud development journey with Python.
+Thank you for checking out OCR-tastic! We appreciate your interest and hope this project is helpful in your Azure cloud development journey with Python..
